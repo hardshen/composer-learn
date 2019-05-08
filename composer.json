@@ -1,0 +1,21 @@
+{
+  "name": "composer-learn/tools",
+  "description": "学习写一个composer package  名字是tools",
+  "type": "library",
+  "require": {
+    "php": ">=5.6"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "shenwenwen",
+      "email": "hardshen@163.com"
+    }
+  ],
+  "minimum-stability": "dev"
+  "autoload": {
+    "psr-4": {
+      "Tools\\": "src/"
+    }
+  }
+}
