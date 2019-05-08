@@ -1,5 +1,5 @@
 {
-  "name": "composer-learn/tools",
+  "name": "composer-learn-hardshen/tools",
   "description": "学习写一个composer package  名字是tools",
   "type": "library",
   "require": {
